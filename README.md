@@ -21,5 +21,6 @@ Open to relocating for a position that allows me to apply my time and talents to
 I love to learn and believe you're not actively getting better, you're actively getting worse.
 
 1. Improve proficiency with design patterns
-2. Work more with React
-3. Learn Rust
+2. Work more with React + TypeScript
+3. See what all the hype is about GraphQL
+4. Learn Rust
