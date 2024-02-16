@@ -18,7 +18,7 @@ Open to relocating for a position that allows me to apply my time and talents to
 
 ## 🏫 Current Learning Goals
 
-I love to learn and believe you're not actively getting better, you're actively getting worse.
+I love to learn and believe if you're not actively getting better, you're actively getting worse.
 
 1. Improve proficiency with design patterns
 2. Work more with React + TypeScript
